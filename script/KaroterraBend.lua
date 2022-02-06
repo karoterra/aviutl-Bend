@@ -1,3 +1,7 @@
+--[[
+  曲げKR v1.0.0 by karoterra
+]]
+
 local Bend = {}
 
 local eps = 1e-5
